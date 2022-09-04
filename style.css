@@ -1,0 +1,28 @@
+*{
+    
+    margin:0;
+}
+#formContent{
+    outline:none;
+    border:none;
+    border:1px solid #333;
+    width:100vw;
+    height:90vh;
+    
+    background: rgb(255, 255, 255);
+    resize: none;
+    /* text-align: right; */
+    font-size:30px;
+    
+    
+}
+#formTitle{
+    outline:none;
+    border:none;
+    width:100vw;
+    height:10vh;
+    /* margin-bottom: 5vh; */
+    resize: none;
+    border:1px solid #333;
+    font-size:30px;
+}
